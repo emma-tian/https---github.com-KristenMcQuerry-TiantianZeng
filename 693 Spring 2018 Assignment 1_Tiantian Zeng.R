@@ -12,6 +12,8 @@ library(nycflights13)
 ## Look at data
 flights  
 
+
+
 #***************************** Find out flights ****************************#
 ## a. Had an arrival delay of two or more hours
 flights %>%
